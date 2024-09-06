@@ -89,7 +89,12 @@
     <p align="left">letex481</p>
   </a>
 </div>
-
+<div align="left">
+  <a href="mailto:Sasy2506@icloud.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="email logo" />
+    <p>Sasy2506@icloud.com</p>
+  </a>
+</div>
 
 
 <br clear="both">
