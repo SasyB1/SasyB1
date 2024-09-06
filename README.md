@@ -1,4 +1,4 @@
-<h2 align="left">Ciao 👋! sono Salvatore Buonaiuto, ho 26 anni e sono un Jr. Full Stack Developer di Gragnano in provincia di Napoli, Italia </h2>
+<h2 align="left">Ciao 👋! sono Salvatore Buonaiuto, ho 26 anni e sono un Jr. Full Stack Developer </h2>
 
 ###
 
